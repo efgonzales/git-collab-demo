@@ -6,12 +6,14 @@ editor: visual
 
 ## 
 
-Hi Allison, this is really fun.
+**Hi Allison, this is really fun.**
 
-Yea Sam, it's awesome!
+**Yea Sam, it's awesome!**
 
-Making more changes.
+*Making more changes.*
 
-Hi Amrit
+*Hi Amrit*
 
-Good morning Elise!
+*Good morning Elise!*
+
+Added another line woo
